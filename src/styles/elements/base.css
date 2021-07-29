@@ -1,0 +1,12 @@
+body{
+    font-size: 25px;
+    height: 100%;
+    background-color: var(--color-terceira);
+}
+img {
+    width: 210px;
+    height: 210px;
+    margin: 10px;
+    border-radius: 100px;
+    box-shadow: 5px 5px 10px black;
+}
